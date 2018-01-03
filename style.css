@@ -30,3 +30,11 @@ body {
 .button:hover {
 	color: black;
 }
+
+#removeOnStart {
+	display: inline;
+}
+
+#showOnStart {
+	display: none;
+}
