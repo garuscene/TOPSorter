@@ -31,10 +31,10 @@ body {
 	color: black;
 }
 
-#removeOnStart {
+#start {
 	display: inline;
 }
 
-#showOnStart {
+#pick {
 	display: none;
 }
